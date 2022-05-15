@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaishali
 - 👀 You are probably here to take a look at my repositories
 - 🌱 I’m always learning about latest web development and optimization of existing code
-- 💞️ I’ll appreaciate anyone who can collaborate me in above stated realm
+- 💞️ I’ll appreaciate anyone who can collaborate with me in above stated realm
 - 📫 Drop mail @- vseiinv@gmail.com
 
 <!---
